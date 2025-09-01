@@ -6,10 +6,10 @@ I hold a Master’s degree in Game Development from **HEAJ (Namur, Belgium)**, w
 ---
 
 ## 🚀 Featured Projects
-- **Mini Airline** – A work-in-progress C++/SFML project inspired by *Mini Airways*.
+- **[Mini Airline](https://github.com/TheMakness/MiniAirline)** – A work-in-progress C++/SFML project inspired by *Mini Airways*.
   Its main goal is to strengthen my C++ skills while exploring resource management and optimization mechanics.
   
-- **Research Thesis** – Study of flight simulation models with a focus on player experience.
+- **[Research Thesis](https://github.com/TheMakness/FlightSimulation)** – Study of flight simulation models with a focus on player experience.
 ---
 
 ## 🔧 Technical Skills
