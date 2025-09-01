@@ -13,7 +13,7 @@ I hold a Master’s degree in Game Development from **HEAJ (Namur, Belgium)**, w
 ---
 
 ## 🔧 Technical Skills
-- **Languages**: C++, C#, Blueprint  
+- **Languages**: C++, C#, Blueprint, Python  
 - **Engines & Tools**: Unreal Engine 5, Unity, Git, Perforce  
 - **Other**: Physics simulation, Niagara particle systems, internal tool design
 
