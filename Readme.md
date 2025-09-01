@@ -10,6 +10,10 @@ I hold a Master’s degree in Game Development from **HEAJ (Namur, Belgium)**, w
   Its main goal is to strengthen my C++ skills while exploring resource management and optimization mechanics.
   
 - **[Research Thesis](https://github.com/TheMakness/FlightSimulation)** – Study of flight simulation models with a focus on player experience.
+
+- **[Research Thesis](https://github.com/TheMakness/FlightSimulation)** – Study of flight simulation models with a focus on player experience.
+   A work-in-progress Python project reproduction of *Paint* software.
+  Its main goal is to strengthen my Python skills while exploring graphics application.
 ---
 
 ## 🔧 Technical Skills
