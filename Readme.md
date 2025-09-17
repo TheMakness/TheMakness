@@ -26,7 +26,10 @@ I hold a Master’s degree in Game Development from **HEAJ (Namur, Belgium)**, w
 ## 🎯 Interests
 - Gameplay systems & systemic design
 - Software design
-- Simulation and applied research in games  
+- Simulation and applied research in games
+- VFX
+- Technical Art
+- Graphics Programming  
 
 ---
 
