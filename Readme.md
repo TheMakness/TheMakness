@@ -36,4 +36,4 @@ I hold a Master’s degree in Game Development from **HEAJ (Namur, Belgium)**, w
 ## 📫 Get in Touch
 - ✉️ damian.lallement@outlook.fr  
 - 💼 https://www.linkedin.com/in/damian-lallement 
-- 🎮 [damianlallement.me](damianlallement.me)
+- 🎮 [damianlallement.me](www.damianlallement.me)
